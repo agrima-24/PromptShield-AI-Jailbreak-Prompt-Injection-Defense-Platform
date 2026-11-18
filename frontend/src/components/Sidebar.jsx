@@ -18,7 +18,7 @@ export default function Sidebar({ activeTab, setTab, status }) {
     { id: 'chat', label: 'Live Chat', icon: MessageSquare },
     { id: 'dashboard', label: 'Dashboard', icon: LayoutDashboard },
     { id: 'attacks', label: 'Attack Library', icon: Layers },
-    { id: 'results', label: 'Evaluation Results', icon: BarChart2 },
+    { id: 'results', label: 'Benchmark Reports', icon: BarChart2 },
     { id: 'history', label: 'Query History', icon: Clock },
   ];
 

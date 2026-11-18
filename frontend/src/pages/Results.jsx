@@ -258,9 +258,9 @@ export default function Results() {
           <div className="card-title-group">
             <span className="card-title-icon"><BarChart2 size={20} /></span>
             <div>
-              <h2>Evaluation Results & Benchmark Metrics</h2>
+              <h2>Benchmark Reports & Evaluation Metrics</h2>
               <p style={{ fontSize: '0.8rem', color: 'var(--text-secondary)' }}>
-                Dynamically connected to evaluation artifacts in <code>results/</code>. Currently analyzing: <strong>{selectedFile}</strong>
+                Dynamically connected to benchmark artifacts in <code>results/</code>. Currently analyzing: <strong>{selectedFile}</strong>
               </p>
             </div>
           </div>

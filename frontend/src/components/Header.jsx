@@ -27,7 +27,7 @@ const TAB_METADATA = {
     icon: Layers,
   },
   results: {
-    title: 'Evaluation Results',
+    title: 'Benchmark Reports',
     subtitle: 'Comprehensive benchmark results, ASR/FPR metrics, and judge analysis.',
     icon: BarChart2,
   },
