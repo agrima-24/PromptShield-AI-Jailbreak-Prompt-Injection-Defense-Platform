@@ -1,0 +1,90 @@
+{
+  "seeds_version": "168c834db898",
+  "random_seed": 42,
+  "near_duplicate_threshold": 0.85,
+  "excluded": {
+    "attack": 3,
+    "general_benign": 0,
+    "domain_exact": 8,
+    "domain_similar_to_eval": 0
+  },
+  "rows_per_class": 1453,
+  "counts": [
+    {
+      "split": "test",
+      "label": 0,
+      "source": "alpaca",
+      "rows": 189
+    },
+    {
+      "split": "test",
+      "label": 0,
+      "source": "domain",
+      "rows": 29
+    },
+    {
+      "split": "test",
+      "label": 1,
+      "source": "jbb",
+      "rows": 18
+    },
+    {
+      "split": "test",
+      "label": 1,
+      "source": "wild",
+      "rows": 200
+    },
+    {
+      "split": "train",
+      "label": 0,
+      "source": "alpaca",
+      "rows": 888
+    },
+    {
+      "split": "train",
+      "label": 0,
+      "source": "domain",
+      "rows": 129
+    },
+    {
+      "split": "train",
+      "label": 1,
+      "source": "jbb",
+      "rows": 61
+    },
+    {
+      "split": "train",
+      "label": 1,
+      "source": "wild",
+      "rows": 956
+    },
+    {
+      "split": "val",
+      "label": 0,
+      "source": "alpaca",
+      "rows": 196
+    },
+    {
+      "split": "val",
+      "label": 0,
+      "source": "domain",
+      "rows": 22
+    },
+    {
+      "split": "val",
+      "label": 1,
+      "source": "jbb",
+      "rows": 21
+    },
+    {
+      "split": "val",
+      "label": 1,
+      "source": "wild",
+      "rows": 197
+    }
+  ],
+  "test_rows_with_near_duplicate_in_train_percent": {
+    "attack": 0.0,
+    "benign": 0.0
+  }
+}

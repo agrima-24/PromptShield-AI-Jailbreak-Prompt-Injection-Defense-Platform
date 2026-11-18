@@ -1,0 +1,16 @@
+Account and Support FAQ
+
+How do I reset my password?
+Go to the login page and click "Forgot Password". Enter the email address associated with your account and you will receive a password reset link within a few minutes. The link expires after 24 hours.
+
+What are your support hours?
+Our support team is available Monday through Friday, 9 AM to 6 PM. Live chat responses typically arrive within 10 minutes during business hours. Email support has a 1-business-day response target.
+
+How do I update my billing information?
+Log into your account, go to Settings, then Billing, and select "Update Payment Method". Changes take effect immediately for future charges.
+
+How do I delete my account?
+Account deletion requests can be submitted through Settings > Account > Delete Account, or by contacting support directly. Deletion is permanent after a 14-day grace period, during which you can cancel the request by logging back in.
+
+Do you offer a free trial?
+Yes, new accounts include a 14-day free trial with full feature access. No credit card is required to start the trial.

@@ -1,0 +1,15 @@
+Security Practices
+
+We use technical and organizational safeguards to protect customer account, order, billing, and support information.
+
+Customer accounts are protected using password authentication and security controls designed to prevent unauthorized access. Customers should use a unique password and should not share account credentials.
+
+Payment information is handled through third-party payment providers. Complete payment card numbers are not stored on our systems.
+
+Access to customer information is limited to authorized personnel who need the information to provide services, process orders, resolve support requests, or maintain our systems.
+
+We monitor systems for suspicious activity and investigate potential security incidents.
+
+If you believe your account has been compromised, contact our support team as soon as possible and reset your password through the account login page.
+
+We may require additional verification before making changes to account information or providing sensitive account details through support.
